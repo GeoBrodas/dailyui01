@@ -83,3 +83,14 @@ label {
   color: #545871;
   font-weight: bold;
 }
+
+/* Responsiveness */
+@media (max-width:1028px){
+  .background {
+    height: 100%;
+  }
+
+  #main-a, #main-b{
+    margin-top: 20%;
+  }
+}
