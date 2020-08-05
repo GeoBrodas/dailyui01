@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.background {
+  padding: 3% 3% 1%;
+  background-color: #9497A7;
+}
+
+/* Padding between section */
+#main-a, #main-b {
+  padding: 0 0 20px;
+}
+
+#border-1, #border-2 {
+  background-color: #9497A7;
+  border: 0 solid;
+}
+
+/* Card title */
+.card-title2 {
+  font-family: 'Comfortaa', cursive;
+  font-size: 1.5rem;
+  color: #545871;
+}
+
+.card-title1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  padding-bottom: 10%;
+}
+
+p {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  text-align: center;
+}
+
+/* Path-way */
+/* Toggle content in welcome section */
+#pathway {
+  padding: 9rem 7rem 3.6rem;
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+i {
+  margin-top: 22px;
+}
+
+.path-way {
+  text-align: center;
+  box-shadow: 3px 3px transparent, -1em 0 1em .1em grey;
+  color: #DADBE7;
+  background-color: #545871;
+  line-height: 2;
+  letter-spacing: 5;
+}
+
+/* Form */
+.form-page {
+  box-shadow: 3px 3px transparent, 1em 0 1em .1em grey;
+  background-color: #F0F1F8;
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+
+label {
+  color: #9497A7;
+}
+
+#form-main {
+  padding: 10% 15%;
+}
+
+/* Button */
+#button-submit {
+  margin-left: 40%;
+}
+
+/* Copyright */
+.copyright {
+  color: #545871;
+  font-weight: bold;
+}
